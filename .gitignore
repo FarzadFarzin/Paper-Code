@@ -1,0 +1,5 @@
+.venv
+.env
+__pycache__
+Web_app.code-workspace
+report.log
